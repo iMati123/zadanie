@@ -1,0 +1,10 @@
+Ile to 2 + 2? => TIMEOUT
+Które miasto jest stolicą Polski? => B
+Który język programowania używany jest w Androidzie? => C
+Jakiego koloru jest niebo w pogodny dzień? => B
+Co to jest TCP? => C
+Ile to 2 + 2? => C
+Które miasto jest stolicą Polski? => C
+Który język programowania używany jest w Androidzie? => D
+Jakiego koloru jest niebo w pogodny dzień? => AD
+Co to jest TCP? => E

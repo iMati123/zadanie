@@ -1,0 +1,5 @@
+Ile to 2 + 2?;3;4;5;6;B
+Które miasto jest stolicą Polski?;Kraków;Poznań;Warszawa;Gdańsk;C
+Który język programowania używany jest w Androidzie?;Swift;Kotlin;Ruby;PHP;B
+Jakiego koloru jest niebo w pogodny dzień?;Czerwony;Zielony;Niebieski;Żółty;C
+Co to jest TCP?;Typ herbaty;Protokół transmisji;Rodzaj pizzy;Silnik;B

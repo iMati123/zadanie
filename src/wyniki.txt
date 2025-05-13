@@ -1,0 +1,2 @@
+Student: wynik = 0
+Student: wynik = 1
